@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(4, 8, 7) !important;
+}
+
+.navv{
+    z-index: 10000 !important;
+    top: 0 !important;
+    position: sticky !important;
+}
+
+
+.Join-Button{
+ 
+    padding-left: 45px !important;
+    padding-right: 45px !important;
+    text-transform: uppercase;
+    border-width: 5px !important;
+    font-family: 'Roboto', sans-serif !important;
+    /* background-color: palevioletred !important;
+    color: aliceblue !important;
+    border-color: palevioletred !important; */
+}
+
+.Join-Button:hover{
+    /* background-color: black !important; */
+}
+
+.abc{
+    display: flex !important;
+    justify-content: center !important;
+    
+    margin-left: 50px !important;
+/* background-color: black !important; */
+
+}
+
+.own{
+    background-color: rgba(2, 4, 2, 0.344) !important;
+    border-style: solid;
+    border-left: 5px;
+    border-right: 5px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.gym-img-main{
+    display: flex;
+}
+
+h2{
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    padding-top: 2px !important;
+    /* font-family: 'Roboto', sans-serif !important; */
+}
+
+.imo{
+    height: 500px !important;
+    width: 100px !important;
+}
+
+.imoo{
+    background-color: white !important;
+}
+
+.span1{
+    text-align: center !important;
+    display: flex;
+    justify-content: center;
+    color: blue;
+    
+}
+
+.imoo{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    font-weight: bolder;
+}
+
+.pagetwo{
+
+    margin: auto !important;
+}
+.card{
+    box-shadow: 0 0 15px red !important;
+}
+
+.aaa{
+    font-family: 'Righteous', cursive;
+font-family: 'Roboto', sans-serif;
+color: wheat;
+}
+
+.Client-Says{
+    font-weight: 900 !important;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+
+.owncustumer-2{
+    display: inline-block !important;
+}
+
+ .client-ca{
+      /* height: 200px !important;   */
+      margin: auto !important;
+    /* text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+} 
